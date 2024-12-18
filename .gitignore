@@ -1,0 +1,31 @@
+# C++ build files
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+
+# Visual Studio Code settings
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Linux specific files
+*~
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Build directory
+/build/
+
+# Temporary files
+*.log
+*.tmp
